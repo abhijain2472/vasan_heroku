@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vasanshop-bf2d0",
+  "private_key_id": "c934a09862e258abccc76cadd5d56462fbd826a7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDDwwUjJYniry8o\nrRWx+qvWxHjPcog06Dk5al79Un+i35CIOc8TH/Nx/MtiwQFn+njDps/HG/pzF8Yh\nJKWRfezrl3ALR0jneqfp6xe0+rZmF/r43Aht4djPg8j6EgvvZ0eib/Tbb83JyDSt\n967naTSqruQgGM1z3MyPZ8jKF7qixQDHxLr5W7q1wZ8f3OXYZsJqe50Epzq71Ost\nwgdGrl2j2PXTr0PElcGjObECn9MO+mIxErwWpBcQWlIa6PAgi421jr2CgxgeNy9t\n9LgbvYBYS4Sx332GN2uVFic47u5ad5rybdwSegH0dBu/8Y10nCjREBfqAqEOLuhm\nyMJ7IE5FAgMBAAECggEACfl3m0sYG7n/3eN10cf7Nfn0SuOjz4hOlB+Yn/Eyai7Y\neyxw4eFUouf1x/4cD3t6aEOpXhSNngwlzv4CRqfDKNziO1ziONMt15QgNNs6bHjH\n06LIdirWBHrLRHyjaYsaYgswz3aCpoeiMYQHgCiC47h+DKme3EqxjJQF7dAoNQ9c\nRXB4DBXR4T+Pikj/5sAjsyN9YUwdhWeevfSFxV03hHWDSwTsZJmT84Yujxs5fi5J\nXrO6Tjz7EUjgJwvTFNtdDKHheqHWeNlZ2NmXOCPIrE+fgyoibhp02hIwag7/a2CF\nnY5Gy/YXozBdtW5cX0GRvhrFVFcH0oAtCm+ajfIpwQKBgQDvm44ELlvfzK91lp7r\nDIXGSu7mkyh6VE7uKlukkD7mouWidjVD30g1lYrlxTfKAvmts4SHbx9799z6vWew\ntPcyF8rEkaxpkkxht9JwgVyTjzhiYNbE+ZksG2CRotpDqn6R+1ne2M8JMHPrTjGD\nxl3oni4Nxi+RtlHZDY1Sk0d6hQKBgQDRJ46hIZn9mHuIqy6YIUKZ22tS+BQ4yMyQ\nvSfPfP7zUee/zcXJ4lqEvk5m3VzzJb2LJnoZmDiDO5smMPvrXQ5RdWhGGh3zvZb+\nry5x3ZMFHnSlGjBeOJCa7vHJKX43KhpYmAXp2XGoa2CBkgBMGdhw8ZVckHfMWxB6\npnqqm3QwwQKBgQCw0156LXA1+EtgfximpCYxUWl/FgjgRkm9r9rT1nPlJ0BKpevn\nO+eBS+wmZ2Ylmg6CpyHeBR76ENCu5oqYOOTYvgAxEsRnYMUntE4EIyOb7i0RRSAa\nW40zpLyenc1v9GnV9+W59MzNnkld1OXrtr/lBJ8+IQ1H/oHmqf6qevBcNQKBgBgs\nwVCgiKMGN+khGB6fYYpVET+iyvuRQgvMwUg7Q2Cua+IAj8b48ct8D6XWGkNEbnch\n+GTy8j1A63rrmIKo29nQfz/zDtk4ZbaEWxLwMGkcDxFySHrrgNNXoPzGXf9UT31D\n/RL9fiSgXKQ9Uul450qOsdvkGuS09d+nVHBZzYFBAoGBAMvoGwBI3HuXGrKfEneA\n9u4dcT9XEcav8lNwiePhyrVAZWleUS0wtWvOZQhZfjyJFyxLid2ZnR9IdFxu7gsy\njiQTK5U2fefM6/u9GSrA5eagi0E6jdOeTs66YAjsGZNrv2LYgmDl1DTSYabSdevw\nnEC2S8twnyDEGm1VEKMF5LAb\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-qe6c5@vasanshop-bf2d0.iam.gserviceaccount.com",
+  "client_id": "105814960363356427093",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-qe6c5%40vasanshop-bf2d0.iam.gserviceaccount.com"
+}
