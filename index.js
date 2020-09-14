@@ -17,7 +17,7 @@ exports.sendNotificationOnFcmToken = admin.functions.firestore.document('product
                 });
     let title = 'Product Details.';
     let content = 'Click to goto product.';
-    let doc = await admin.firestore().doc('users/CNxRAuPnih6Q1wjFCiz3').get();
+    let doc = await admin.firestore().collection('users').doc('token').get();
     let fcmTOken = doc.get('fcm');
     var product = snapshot.after.data();
     var message = {
